@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<p style="text-align:center"><kbd style="font-size: 2em; background: black; color: white; height:40px; border-color:black; ">
-  <fonts style="position: relative; bottom:-1rem"><span style="color: #35ae35;">~$ </span><span style="color: teal;">./</span><span class="dirname">.</span>
-  </fonts>
-</kbd></p>
-
 <p align="center"><br/>
    <a href="https://www.linkedin.com/in/guilherme-said/">
     <img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" width="100">
