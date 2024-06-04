@@ -10,6 +10,7 @@
 </div>
 
 <br>
+<div style="display: inline_block">
   <img align="center" alt="Terraform" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg">
   <img align="center" alt="PostgreSQl" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="HTML" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
