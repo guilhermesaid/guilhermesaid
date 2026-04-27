@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-# Guilherme Said
-
 System Administrator with experience in Linux infrastructure, cloud computing (AWS), observability and automation.
 
 ## Core Skills
